@@ -69,7 +69,7 @@ export default function Footer() {
             <p className="text-gray-400">
               Developed by{" "}
               <a
-                href="https://shahzadali.vercel.app/"
+                href=""
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-white hover:text-gray-300 transition-colors font-medium will-change-transform"
